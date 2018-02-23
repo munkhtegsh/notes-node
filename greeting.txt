@@ -1,0 +1,3 @@
+Hello world!() => {
+	return 'Hello world!'
+}Hello world!Hello world!Hello munkhtegsh!Hello munkhtegshHello munkhtegshHello munkhtegsh! You are 25
